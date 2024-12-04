@@ -83,4 +83,4 @@ This project demonstrates a complete sales data analysis pipeline using Microsof
 For questions, collaborations, or feedback, feel free to reach out:  
 
 - **Email**: [engysead498@gmail.com]  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/engy-saeed-b47784276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0pTrqhMeRg2bmvRhVG53Aw%3D%3D)  
+- [LinkedIn](https://www.linkedin.com/in/engy-saeed-b47784276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0pTrqhMeRg2bmvRhVG53Aw%3D%3D)  

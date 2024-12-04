@@ -10,7 +10,7 @@ This project demonstrates a complete sales data analysis pipeline using Microsof
 | **File Name**      | **Description**                                                                                   |
 |---------------------|---------------------------------------------------------------------------------------------------|
 | `Sales Project.xlsx`| Complete project workbook including data cleaning, calculations, and dynamic dashboard.           |
-| `Sales Data.xlsx`    | Dataset for practice, containing raw sales and master data tables.                                |
+| `Sales Data.xlsx`    | Dataset for practice.                                                                            |
 | `Sales Dashboard.png`     | Screenshot of the dynamic dashboard showcasing key metrics and visuals.                          |
 | `README.md`         | Project documentation and guidelines for exploration.                                            |
 
